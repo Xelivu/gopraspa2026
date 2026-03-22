@@ -1,8 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -11,12 +7,6 @@ body {
   justify-content: center;
   padding: 20px;
 }
-
-.container {
-  width: 100%;
-  max-width: 420px;
-}
-
 .card {
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(10px);
