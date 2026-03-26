@@ -24,6 +24,7 @@ body {
 .card-body {
   text-align: center;
   color: white;
+  background: #080808;
 }
 @media (max-width: 480px) {
   .card {
